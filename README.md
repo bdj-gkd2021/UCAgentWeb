@@ -26,7 +26,7 @@ A modern web interface component customized for UCAgent, providing an intuitive 
 
 ## About
 
-UCAgentWeb is the official web interface component for UCAgent (UnityChip Verification AI-Agent). UCAgent is an AI-powered automated hardware verification agent based on large language models, focusing on unit test verification for chip design. UCAgentWeb provides an intuitive web interface that enables users to more conveniently manage, monitor, and analyze hardware verification tasks.
+UCAgentWeb is a web interface component for UCAgent (UnityChip Verification AI-Agent). UCAgent is an AI-powered automated hardware verification agent based on large language models, focusing on unit test verification for chip design. UCAgentWeb provides an intuitive web interface that enables users to more conveniently manage, monitor, and analyze hardware verification tasks.
 
 ## Features
 

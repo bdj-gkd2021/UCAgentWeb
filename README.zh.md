@@ -26,7 +26,7 @@
 
 ## 关于
 
-UCAgentWeb 是 UCAgent（UnityChip 验证 AI 智能体）的官方网页端交互组件。UCAgent 是一个基于大语言模型的 AI 驱动的自动化硬件验证智能体，专注于芯片设计单元测试验证。UCAgentWeb 提供了一个直观的 Web 界面，使用户能够更方便地管理、监控和分析硬件验证任务。
+UCAgentWeb 是 UCAgent（UnityChip 验证 AI 智能体）的网页端交互组件。UCAgent 是一个基于大语言模型的 AI 驱动的自动化硬件验证智能体，专注于芯片设计单元测试验证。UCAgentWeb 提供了一个直观的 Web 界面，使用户能够更方便地管理、监控和分析硬件验证任务。
 
 ## 功能特性
 
