@@ -5,8 +5,8 @@
 UCAGENT_DIR = ../UCAgent
 UCAGENT_REPO = https://github.com/XS-MLVP/UCAgent.git
 UCAGENT_BRANCH = main
-PYTHON_CMD = python
-PNPM_CMD = /home/bdj/.nvm/versions/node/v24.12.0/bin/pnpm
+PYTHON_CMD = $(shell which python3 || which python)
+PNPM_CMD := $(shell which pnpm)
 CURRENT_DIR = $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 OUTPUT_DIR = $(CURRENT_DIR)output
 
